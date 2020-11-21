@@ -1,7 +1,8 @@
 # Hi 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanaziz?color=1DA1F2&label=Follow%20%40_sufyanaziz&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=_sufyanAziz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanaziz?color=1DA1F2&label=Follow%20%40_sufyanaziz&logo=Twitter&style=flat)](https://twitter.com/intent/follow?screen_name=_sufyanAziz)
 ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgray)
+[![Visits](https://komarev.com/ghpvc/?username=sufyanaziz&label=Profile%20visits&color=red&style=flat)](https://github.com/novatorem)
 
 Hi, I'm **Achmad Sufyan Aziz**. I'm a College Student and Junior Web Developer from Indonesia. <br/>
 I like writing code with **react js** and **node js**
@@ -14,7 +15,7 @@ I like writing code with **react js** and **node js**
 - ✔️ I'm already finished 2 project with client (React and Node)
 - ⚡ Fun fact: I love to play game 🎮
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,7 +30,7 @@ I like writing code with **react js** and **node js**
 
 <br/>
 
-### Find Me:
+## Find Me:
 
 [<img align="left" height="24px" alt="sufyanaziz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
 [<img align="left" height="24px" alt="sufyanaziz | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
