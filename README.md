@@ -15,7 +15,7 @@ I like to write code using **react js** and **node js**
 - ✔️ I've completed 2 projects with clients (React and Node)
 - ⚡ Fun fact: I love to play game 🎮
 
-## Languages and Tools:
+### Languages and Tools:
 
 <div>
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,13 +31,14 @@ I like to write code using **react js** and **node js**
 </div>
 
 <br/>
+<br/>
 
-## Find Me on Social Media:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanaziz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align="left" height="24" alt="sufyanaziz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
-[<img align="left" height="24" alt="sufyanaziz | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
-[<img align="left" height="24" alt="sufyanaziz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_sufyanAziz)
-[<img align="left" height="24" alt="sufyanaziz | linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
+### Find Me on Social Media:
+
+[<img align="left" height="24" alt="sufyanaziz | Facebook" src="https://img.shields.io/static/v1?label=Facebook&message=Ahmad%20Sufyan%20Aziz&color=1877F2&logo=Facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
+[<img align="left" height="24" alt="sufyanaziz | Instagram" src="https://img.shields.io/static/v1?label=Instagram&message=ahmadsufyan_&color=E4405F&logo=Instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
+[<img align="left" height="24" alt="sufyanaziz | linkedin" src="https://img.shields.io/static/v1?label=Instagram&message=Achmad%20Sufyan&color=0077B5&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
 <br/>
 <hr/>
-
