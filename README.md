@@ -15,7 +15,7 @@ I like to write code using **react js** and **node js**
 - ✔️ I've completed 2 projects with clients (React and Node)
 - ⚡ Fun fact: I love to play game 🎮
 
-### Languages and Tools:
+## Languages and Tools:
 
 <div>
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,7 +35,7 @@ I like to write code using **react js** and **node js**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyanaziz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Find Me on Social Media:
+## Find Me on Social Media:
 
 [<img alt="sufyanaziz | Facebook" src="https://img.shields.io/static/v1?label=&message=Ahmad%20Sufyan%20Aziz&color=1877F2&logo=Facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
 [<img alt="sufyanaziz | Instagram" src="https://img.shields.io/static/v1?label=&message=ahmadsufyan_&color=E4405F&logo=Instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
