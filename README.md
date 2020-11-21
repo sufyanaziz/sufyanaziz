@@ -1,15 +1,18 @@
-### Hi there, i'm Achmad Sufyan Aziz 👋
+# Hi 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanAziz?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=_sufyanAziz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanaziz?color=1DA1F2&label=Follow%20%40_sufyanaziz&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=_sufyanAziz)
+![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgray)
 
-## I'm a College Student and Junior Programmer
+Hi, I'm **Achmad Sufyan Aziz**. I'm a College Student and Junior Web Developer from Indonesia. <br/>
+I like writing code with **react js** and **node js**
 
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning everything
-- 💬 Ask me about anything
+## Abstract
+- 🌱 I'm currently studying nextjs and more
+- 💬 Ask me about anything in my project
 - ✔️ I'm already finished 2 project with client (React and Node)
-- ⚡ Fun fact: I love to play game 🎮 and learn something new 🤓
+- ⚡ Fun fact: I love to play game 🎮
 
 ### Languages and Tools:
 
@@ -26,9 +29,12 @@
 
 <br/>
 
-### Contact Me:
+### Find Me:
 
-[<img align="left" height="24" alt="sufyanaziz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
-[<img align="left" height="24" alt="sufyanaziz | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
-[<img align="left" height="24" alt="sufyanaziz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_sufyanAziz)
-[<img align="left" height="24" alt="sufyanaziz | linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
+[<img align="left" height="24px" alt="sufyanaziz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
+[<img align="left" height="24px" alt="sufyanaziz | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
+[<img align="left" height="24px" alt="sufyanaziz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_sufyanAziz)
+[<img align="left" height="24px" alt="sufyanaziz | linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
+
+<br/>
+<hr/>
