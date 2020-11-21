@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything
-- ⚡ Fun fact: I Love to play game 🎮
+- ✔️ I'm already finished 2 project with client (React and Node)
+- ⚡ Fun fact: I Love to play game 🎮 and learn something new 🤓
 
 ### Contact Me:
 
@@ -16,6 +17,8 @@
 [<img align="left" height="24" width="24" alt="sufyanaziz | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/ahmad.s.aziz.1)
 [<img align="left" height="24" width="24" alt="sufyanaziz | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_sufyanAziz)
 [<img align="left" height="24" width="24" alt="sufyanaziz | linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
+
+<br/>
 
 ### Languages and Tools:
 
