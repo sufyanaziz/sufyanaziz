@@ -10,14 +10,14 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I Love to play game 🎮
 
-## Contact Me:
+### Contact Me:
 
 [<img align="left" height="24" width="24" alt="sufyanaziz | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ahmadsufyan_/)
 [<img align="left" height="24" width="24" alt="sufyanaziz | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/ahmad.s.aziz.1)
 [<img align="left" height="24" width="24" alt="sufyanaziz | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_sufyanAziz)
 [<img align="left" height="24" width="24" alt="sufyanaziz | linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
