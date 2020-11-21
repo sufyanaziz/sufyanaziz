@@ -1,14 +1,19 @@
 ## Hi there, i'm Achmad Sufyan Aziz 👋
 
-### I'm a college student and a junior programmer
+### I'm a College Student and Junior Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React.js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Anything
+<!-- - 🔭 I’m currently working on ... -->
+
+- 🌱 I’m currently learning everything
+- 💬 Ask me about anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm really love programming
+- ⚡ Fun fact: I Love to play game 🎮
+
+### Contact Me:
+
+[<img height="24" width="24" alt="sufyanaziz | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ahmadsufyan_/)
+[<img height="24" width="24" alt="sufyanaziz | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_sufyanAziz)
+[<img height="24" width="24" alt="sufyanaziz | linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
 
 ### Languages and Tools:
 
