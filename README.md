@@ -34,13 +34,10 @@ I like to write code using **react js** and **node js**
 
 ## Find Me on Social Media:
 
-<div>
-  [<img align="left" height="24px" alt="sufyanaziz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
-  [<img align="left" height="24px" alt="sufyanaziz | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
-  [<img align="left" height="24px" alt="sufyanaziz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_sufyanAziz)
-  [<img align="left" height="24px" alt="sufyanaziz | linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
-</div>
-
+[<img align="left" height="24" alt="sufyanaziz | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
+[<img align="left" height="24" alt="sufyanaziz | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
+[<img align="left" height="24" alt="sufyanaziz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_sufyanAziz)
+[<img align="left" height="24" alt="sufyanaziz | linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
 <br/>
-
 <hr/>
+
