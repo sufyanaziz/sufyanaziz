@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything
 - ✔️ I'm already finished 2 project with client (React and Node)
-- ⚡ Fun fact: I Love to play game 🎮 and learn something new 🤓
+- ⚡ Fun fact: I love to play game 🎮 and learn something new 🤓
 
 ### Languages and Tools:
 
