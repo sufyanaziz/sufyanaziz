@@ -5,14 +5,14 @@
 [![Visits](https://komarev.com/ghpvc/?username=sufyanaziz&label=Profile%20visits&color=red&style=flat)](https://github.com/novatorem)
 
 Hi, I'm **Achmad Sufyan Aziz**. I'm a College Student and Junior Web Developer from Indonesia. <br/>
-I like writing code with **react js** and **node js**
+I like to write code using **react js** and **node js**
 
 <!-- - 🔭 I’m currently working on ... -->
 
 ## Abstract
-- 🌱 I'm currently studying nextjs and more
+- 🌱 I'm currently studying react js, next js and more
 - 💬 Ask me about anything in my project
-- ✔️ I'm already finished 2 project with client (React and Node)
+- ✔️ I've completed 2 projects with clients (React and Node)
 - ⚡ Fun fact: I love to play game 🎮
 
 ## Languages and Tools:
