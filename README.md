@@ -1,6 +1,6 @@
 ### Hi there, i'm Achmad Sufyan Aziz 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanAziz?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanAziz?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=_sufyanAziz)
 
 ## I'm a College Student and Junior Programmer
 
