@@ -44,3 +44,6 @@ I like to write code using **react js** and **node js**
 <br/>
 
 <hr/>
+
+## Recent Activity 💥
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=blog-markdown-live)](https://github.com/anuraghazra/github-readme-stats)
