@@ -47,3 +47,6 @@ I like to write code using **react js** and **node js**
 ## Recent Activity 💥
 [![ReadMe Card 1](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=laundry_app)](https://github.com/sufyanaziz/laundry_app) <br/>
 [![ReadMe Card 2](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=blog-markdown-live)](https://github.com/sufyanaziz/blog-markdown-live)
+
+## Github Metrics 📈
+![GitHub metrics](https://metrics.lecoq.io/Sufyanaziz)  
