@@ -46,8 +46,9 @@ I like to write code using **react js** and **node js**
 <hr/>
 
 ## Recent Activity 💥
-[![ReadMe Card 1](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=react-shopping)](https://github.com/sufyanaziz/react-shopping)
-[![ReadMe Card 2](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=blog-markdown-live)](https://github.com/sufyanaziz/blog-markdown-live)
+[![ReadMe Card 1](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=luna_laundry)](https://github.com/sufyanaziz/luna_laundry)
+[![ReadMe Card 2](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=react-shopping)](https://github.com/sufyanaziz/react-shopping)
+[![ReadMe Card 3](https://github-readme-stats.vercel.app/api/pin/?username=sufyanaziz&repo=blog-markdown-live)](https://github.com/sufyanaziz/blog-markdown-live)
 
 ## Github Metrics 📈
 ![GitHub metrics](https://metrics.lecoq.io/Sufyanaziz)  
