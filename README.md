@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_sufyanaziz?color=1DA1F2&label=Follow%20%40_sufyanAziz&logo=Twitter&style=flat)](https://twitter.com/intent/follow?screen_name=_sufyanAziz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sufyanAziz98?color=1DA1F2&label=Follow%20%40sufyanAziz98&logo=Twitter&style=flat)](https://twitter.com/intent/follow?screen_name=sufyanAziz98)
 ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgray)
 [![Visits](https://komarev.com/ghpvc/?username=sufyanaziz&label=Profile%20visits&color=red&style=flat)](https://github.com/novatorem)
 
