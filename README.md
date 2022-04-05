@@ -40,7 +40,7 @@ I like to write code using **react js** and **node js**
 
 [<img alt="sufyanaziz | Facebook" src="https://img.shields.io/static/v1?label=&message=Ahmad%20Sufyan%20Aziz&color=1877F2&logo=Facebook&logoColor=white" />](https://www.facebook.com/ahmad.s.aziz.1)
 [<img alt="sufyanaziz | Instagram" src="https://img.shields.io/static/v1?label=&message=ahmadsufyan_&color=E4405F&logo=Instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
-[<img alt="sufyanaziz | linkedin" src="https://img.shields.io/static/v1?label=&message=Achmad%20Sufyan&color=0077B5&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-b63603185/)
+[<img alt="sufyanaziz | linkedin" src="https://img.shields.io/static/v1?label=&message=Achmad%20Sufyan&color=0077B5&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-aziz-b63603185/)
 <br/>
 
 <hr/>
