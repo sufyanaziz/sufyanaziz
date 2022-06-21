@@ -16,7 +16,7 @@ I like to write code using **React.js**.
 # Abstract
 
 - ✔️ I've completed 2 projects with clients (React.js and Node.js)
-- 🔭 I'm currently working at [Waresix](https://www.waresix.com) as Junior Frontend Engineer
+- 🔭 I'm currently working at [Waresix](https://www.waresix.com) as a Junior Frontend Engineer
 - 💬 Ask me about anything in my project
 - ⚡ Fun fact: I love to play game 🎮 and writing code 🧑‍💻 
 - ✉️ Contact me: achmadsufyan98@gmail.com
