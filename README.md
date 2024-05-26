@@ -7,16 +7,15 @@
 [<img alt="sufyanaziz | Instagram" src="https://img.shields.io/static/v1?label=&message=ahmadsufyan_&color=E4405F&logo=Instagram&logoColor=white" />](https://www.instagram.com/ahmadsufyan_/)
 [<img alt="sufyanaziz | linkedin" src="https://img.shields.io/static/v1?label=&message=Achmad%20Sufyan&color=0077B5&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/achmad-sufyan-aziz-b63603185/)
 
-Hi, I'm **Achmad Sufyan Aziz**. I'm a Junior Frontend Engineer from Jakarta, Indonesia. <br/>
+Hi, I'm **Achmad Sufyan Aziz**. I'm a Frontend Engineer from Jakarta, Indonesia. <br/>
 I like to write code using **React.js**.
 
 > Check my [personal website](https://asufyanaziz.vercel.app/) for more information
-<!-- - 🔭 I’m currently working on ... -->
 
 # Abstract
 
 - ✔️ I've completed 2 projects with clients (React.js and Node.js)
-- 🔭 I'm currently working at [Waresix](https://www.waresix.com) as a Junior Frontend Engineer
+- 🔭 I'm currently working at [Arya Noble](https://www.aryanoble.co.id/) as a IT Frontend Developer
 - 💬 Ask me about anything in my project
 - ⚡ Fun fact: I love to play game 🎮 and writing code 🧑‍💻 
 - ✉️ Contact me: achmadsufyan98@gmail.com
